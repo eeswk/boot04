@@ -1,1 +1,1 @@
-# boot04
+# spring-boot-jpa-test
